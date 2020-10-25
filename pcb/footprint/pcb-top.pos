@@ -1,0 +1,40 @@
+### Module positions - created on 2020/10/24 下午 05:01:08 ###
+### Printed by Pcbnew version kicad (5.1.5)-3
+## Unit = mm, Angle = deg.
+## Side : top
+# Designator     Val               Package                                   MidX       MidY       Rotation  Layer
+C1        1uF               C_0402_1005Metric                     161.8486   -93.9075    0.0000  top
+C2        10pF              C_0402_1005Metric                     164.2642   -62.7184  270.0000  top
+C3        10pF              C_0402_1005Metric                     164.2593   -58.0484   90.0000  top
+C4        5pF               C_0402_1005Metric                     164.2642   -71.0276  270.0000  top
+C5        5pF               C_0402_1005Metric                     164.2642   -67.5576   90.0000  top
+C7        1uF               C_0402_1005Metric                     161.8461   -89.0468    0.0000  top
+C8        1uF               C_0402_1005Metric                     151.2367   -82.1818   90.0000  top
+C9        100nF             C_0402_1005Metric                     150.1886   -82.1818   90.0000  top
+C10       100nF             C_0402_1005Metric                     163.1747   -77.1677    0.0000  top
+C11       100nF             C_0402_1005Metric                     161.2738   -75.3948    0.0000  top
+C12       1uF               C_0402_1005Metric                     154.6300   -72.9400  180.0000  top
+C13       100nF             C_0402_1005Metric                     154.6300   -74.1500  180.0000  top
+C14       100nF             C_0402_1005Metric                     157.9778   -88.0961   90.0000  top
+C15       0.1uF             C_0402_1005Metric                     168.1839   -78.7365  180.0000  top
+C16       0.1uF             C_0402_1005Metric                     166.7710   -80.6759  180.0000  top
+C17       4.7uF             C_0402_1005Metric                     170.9246   -78.7400  180.0000  top
+D1        LED               LED_0603_1608Metric                   147.4445   -83.4543   90.0000  top
+D2        LED               LED_0603_1608Metric                   166.8962   -74.1477    0.0000  top
+J2        SWD               PinHeader_2x05_P2.54mm_Vertical_SMD   172.0139   -92.8935    0.0000  top
+L1        12nH              L_0402_1005Metric                     155.1150   -71.3410  270.0000  top
+R1        510               R_0402_1005Metric                     147.4445   -86.0043   90.0000  top
+R2        510               R_0402_1005Metric                     164.1033   -74.1461    0.0000  top
+R3        3.3k              R_0402_1005Metric                     158.8980   -59.0184  270.0000  top
+R5        100k              R_0402_1005Metric                     149.7051   -77.7493   90.0000  top
+R6        20                R_0402_1005Metric                     158.9250   -94.0000  270.0000  top
+R7        20                R_0402_1005Metric                     157.0250   -94.0000   90.0000  top
+R8        1.5k              R_0402_1005Metric                     155.0060   -89.9008  180.0000  top
+SW1       SW_Push           SW_SPST_B3SL-1002P                    148.2420   -68.7146  180.0000  top
+U1        TLV70033_SOT23-5  SOT-23-5                              162.3134   -91.4760   90.0000  top
+U2        STM32F103C8Tx     LQFP-48_7x7mm_P0.5mm                  157.0050   -79.9168  270.0000  top
+U3        USBLC6-2SC6       SOT-23-6                              157.9750   -91.0000   90.0000  top
+U4        MMA8451Q          MMA8451Q                              169.9416   -81.1759    0.0000  top
+Y1        8MHz              Crystal_SMD_5032-2Pin_5.0x3.2mm       161.7890   -60.3834  270.0000  top
+Y2        32.768kHz         Crystal_SMD_3215-2Pin_3.2x1.5mm       162.5912   -69.2926  270.0000  top
+## End

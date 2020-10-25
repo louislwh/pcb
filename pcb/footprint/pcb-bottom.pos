@@ -1,0 +1,10 @@
+### Module positions - created on 2020/10/24 下午 05:01:08 ###
+### Printed by Pcbnew version kicad (5.1.5)-3
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Designator     Val       Package                 MidX       MidY       Rotation  Layer
+C6        0.1uF     C_0402_1005Metric  -155.1669   -77.8410   90.0000  bottom
+R4        100k      R_0402_1005Metric  -153.2108   -79.1668  180.0000  bottom
+R9        4.7k      R_0402_1005Metric  -166.1795   -82.1639   90.0000  bottom
+R10       4.7k      R_0402_1005Metric  -164.0789   -85.0595   90.0000  bottom
+## End
